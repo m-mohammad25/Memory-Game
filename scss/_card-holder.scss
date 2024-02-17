@@ -1,0 +1,10 @@
+main.cards-holder {
+  display: flex;
+  flex-wrap: wrap;
+  height: 640px;
+  width: 640px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  gap: 10px;
+  perspective: 1000px;
+}

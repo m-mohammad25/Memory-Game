@@ -1,0 +1,14 @@
+$pageBg: #060ab2;
+$cardBg: #1c7ccc;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: $pageBg;
+}
